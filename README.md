@@ -137,6 +137,14 @@ The dashboard provides valuable insights, including:
 
 ---
 
+## 🔗 Dashboard image
+
+👉 **View the Interactive Power BI Dashboard:**  
+<img width="622" height="385" alt="image" src="https://github.com/user-attachments/assets/bb00fac0-1001-4d7f-b515-adbe80265182" />
+<img width="637" height="361" alt="image" src="https://github.com/user-attachments/assets/7b06f45c-6a89-4f72-ae20-1407d934e945" />
+
+---
+
 ## 📚 Skills Demonstrated
 
 - Microsoft Power BI
